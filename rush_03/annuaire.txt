@@ -1,0 +1,6 @@
+stephanie|sable|s.sable|CoordinatricePedagogique|email=s.sable@isartdigital.com
+Mario|Bros|m.bros|Plombier|passion=EcraserDesTortues
+Jannah|Mekhaemar|j.mekhaemar|Etudiante|classe=MGP1
+jonathan|lecavelier|j.lecavalier|Etudiant|Specialite=DevMoteur
+kevin|pawlonka|k.pawlonka|stud|truc=truc
+manon|mehalin|m.mehalin|stud
